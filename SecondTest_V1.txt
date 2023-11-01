@@ -1,4 +1,8 @@
 Line-1
 line-2
+<<<<<<< HEAD
 Line-4 // person 3
+=======
+Line-3 // from Person 2
+>>>>>>> e2727d25211d6bb988a3adc60119a3a8102603d5
 
